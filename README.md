@@ -12,6 +12,9 @@
 9. [References](#references)
 
 ## Project Overview
+
+![image](https://github.com/user-attachments/assets/d6181ea6-234e-443b-ae51-d5d2cb05214c)
+
 The objective of this analysis is to assess key performance indicators (KPIs) for bank loan operations. The analysis focuses on understanding loan application trends, funded amounts, and payment collections over specific time periods. Insights from this analysis can aid in evaluating loan performance and guiding strategic decisions for optimizing loan processes.
 
 ## Data Source
