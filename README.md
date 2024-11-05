@@ -38,6 +38,9 @@ Key questions explored include:
 - How much total payment has been collected, and what are the month-over-month changes?
 
 ## Results
+
+![image](https://github.com/user-attachments/assets/d6181ea6-234e-443b-ae51-d5d2cb05214c)
+
 1. **Loan Applications**: A total count of all loan applications, with monthly breakdowns for MTD and PMTD.
 2. **Funded Amounts**: Total funded amount, including specific amounts for the current and previous month.
 3. **Collected Payments**: Total collected payments, highlighting changes between MTD and PMTD periods.
